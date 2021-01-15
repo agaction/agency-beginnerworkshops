@@ -1,9 +1,14 @@
+
+<p align="center">
+  <img src="./assets/Agency Logo.png" width="180">
+</p>
+
 # About
 
 Hello! This is a series of "workshops" from designed to give a gentle introduction to deep learning. Each workshop is a jupyter notebook that walks through some concepts and provides coding exercises along the way to test your knowledge. Learning about neural networks is not easy, so we include detailed diagrams and explanations to make learning as smooth as possible. We have also included answer keys to check your implementations. These will walk you through implementing a basic neural network from scratch (without an ML framework), and then learning the basics of using ML frameworks (PyTorch).
 
 
-<p float="left">
+<p align="center">
   <img src="./assets/wkshp2_preview.png" width="400">
   <img src="./assets/wkshp3_preview.png" width="400">
 </p>
