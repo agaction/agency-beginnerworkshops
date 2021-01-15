@@ -5,7 +5,7 @@
 
 # About
 
-Hello! This is a series of "workshops" from designed to give a gentle introduction to deep learning. Each workshop is a jupyter notebook that walks through some concepts and provides coding exercises along the way to test your knowledge. Learning about neural networks is not easy, so we include detailed diagrams and explanations to make learning as smooth as possible. We have also included answer keys to check your implementations. These will walk you through implementing a basic neural network from scratch (without an ML framework), and then learning the basics of using ML frameworks (PyTorch).
+Hello! This is a series of "workshops" designed to give a gentle introduction to deep learning. Each workshop is a jupyter notebook that walks through some concepts and provides coding exercises along the way to test your knowledge. Learning about neural networks is not easy, so we include detailed diagrams and explanations to make learning as smooth as possible. We have also included answer keys to check your implementations. These will walk you through implementing a basic neural network from scratch (without an ML framework), and then learning the basics of using ML frameworks (PyTorch).
 
 
 <p align="center">
