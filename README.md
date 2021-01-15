@@ -14,7 +14,7 @@ Hello! This is a series of "workshops" designed to give a gentle introduction to
 </p>
 
 
-Feel free to work through these workshops alone, or come visit [Agency tuesday meetings](https://gtagency.github.io/) for any questions or explanation. We hold an open session where members can work through the workshops, and Agency officers will help with any question, ranging from installation of the workshops to providing in-depth explanations of neural network topics. We may also walk through a particular worksheet depending on the level of interest on the day. It is very much a relaxed, but productive learning environment.
+Feel free to work through these workshops alone, or come visit [Agency tuesday meetings](https://gtagency.github.io/) if you have questions or want help. We hold an open session where members can work through the workshops, and Agency officers will help with all questions, ranging from installation of the workshops to providing in-depth explanations of neural network topics. We may also walk through a particular worksheet depending on the level of interest on the day. It is very much a relaxed, but productive learning environment.
 
 # Installation
 
