@@ -35,6 +35,10 @@ conda create -n workshops #replace "workshops" with desired name
 conda activate workshops #activate your environment, use same name as before
 conda install numpy ipykernel jupyter notebook 
 ```
+
+Once you reach the pytorch section of workshops, you can install pytorch with the following command (can be reconfigured for your personal specs at https://pytorch.org/)
+
+	conda install pytorch torchvision torchaudio -c pytorch
 	
 You can deactivate your environment with 
 
